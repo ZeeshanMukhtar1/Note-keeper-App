@@ -2,6 +2,8 @@
 
 Note Keeper is a simple web application for taking notes. It allows you to create, edit, and delete notes, and saves them locally using the browser's localStorage feature. The app is built using HTML, CSS, and JavaScript.
 
+To view this project live, please visit [this link](https://zeeshanmukhtar1.github.io/Note-keeper-App/).
+
 ## Features
 
 - Create new notes
